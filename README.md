@@ -91,6 +91,14 @@ python -m PyInstaller packaging/AdvancedVideoQAPro.spec --noconfirm --clean
 
 The Windows installer configuration is in `packaging/AdvancedVideoQAPro.iss`.
 
+### Direct Download link
+
+```powershell
+https://github.com/hammad986/advanced-Video-QA-System/releases/download/v1.0.0-rc.1/AdvancedVideoQAProSetup-1.0.0.exe
+```
+
+https://github.com/hammad986/advanced-Video-QA-System/releases/download/v1.0.0-rc.1/AdvancedVideoQAProSetup-1.0.0.exe
+
 ## Usage
 
 1. Create or open a research project.
