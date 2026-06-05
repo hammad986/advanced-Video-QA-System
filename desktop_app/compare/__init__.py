@@ -1,0 +1,1 @@
+"""Multi-video comparison foundation."""

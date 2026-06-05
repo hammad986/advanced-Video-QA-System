@@ -1,0 +1,14 @@
+PySide6
+python-dotenv
+requests
+httpx
+psutil
+numpy
+faiss-cpu
+sentence-transformers
+torch
+faster-whisper
+openai-whisper
+google-generativeai
+reportlab
+tqdm

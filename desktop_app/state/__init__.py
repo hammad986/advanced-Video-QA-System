@@ -1,0 +1,2 @@
+"""Desktop application state models."""
+
