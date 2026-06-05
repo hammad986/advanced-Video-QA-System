@@ -228,7 +228,11 @@ tmp/
 data/
 models/
 my_env/
-.streamlit/
+logs/
+caches/
+cache/
+databases/
+media/
 desktop.ini
 *.db
 *.sqlite

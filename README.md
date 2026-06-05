@@ -125,7 +125,7 @@ Supported provider targets include Gemini, OpenAI, Anthropic, Groq, OpenRouter, 
 - Large videos can require substantial CPU, RAM, and processing time.
 - Clean-machine installer validation should be repeated for every release candidate.
 - Update checks require a configured GitHub Releases URL.
-- No cloud sync, browser extension, team workspace, or managed SaaS backend is included in v1.
+- No cloud sync, browser extension, team workspace, or managed cloud backend is included in v1.
 
 ## Roadmap
 
@@ -139,3 +139,5 @@ Supported provider targets include Gemini, OpenAI, Anthropic, Groq, OpenRouter, 
 ## Repository Hygiene
 
 This repository intentionally excludes generated/runtime artifacts such as `data/`, `models/`, `tmp/`, `build/`, `dist/`, virtual environments, local databases, logs, model binaries, and video files. Release binaries should be attached to GitHub Releases, not committed to source control.
+
+Powered by Aetherion Labs

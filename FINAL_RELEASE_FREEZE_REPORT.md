@@ -213,7 +213,7 @@ Current README limitations:
 - Large videos can require substantial CPU, RAM, and processing time.
 - Clean-machine installer validation should be repeated for every release candidate.
 - Update checks require a configured GitHub Releases URL.
-- No cloud sync, browser extension, team workspace, or managed SaaS backend is included in v1.
+- No cloud sync, browser extension, team workspace, or managed cloud backend is included in v1.
 
 Validation-specific limitation observed:
 

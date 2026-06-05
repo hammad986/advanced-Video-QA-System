@@ -35,3 +35,5 @@ ISCC.exe packaging/AdvancedVideoQAPro.iss
 ## Security
 
 Provider API keys belong in encrypted local credential storage on the user machine. Never commit provider secrets, local databases, transcripts, user media, generated embeddings, model files, or release logs.
+
+Powered by Aetherion Labs

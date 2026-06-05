@@ -29,3 +29,5 @@ Advanced Video QA Pro is a local-first Windows desktop application for researchi
 ## Security
 
 Do not store API keys in source files. Configure provider credentials through the desktop Provider Hub. Keep project workspaces private if they contain sensitive videos or transcripts.
+
+Powered by Aetherion Labs

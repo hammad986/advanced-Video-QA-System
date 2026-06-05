@@ -28,13 +28,13 @@ Failing file and line:
 Stack trace:
 
 ```text
-File "D:\Advanced-Video-QA-System-main\desktop_app\chat\chat_service.py", line 34, in ask
+File "desktop_app\chat\chat_service.py", line 34, in ask
   result = self.answer_service.answer(...)
-File "D:\Advanced-Video-QA-System-main\desktop_app\answering\answer_service.py", line 291, in answer
+File "desktop_app\answering\answer_service.py", line 291, in answer
   evidence_result = self.evidence_service.generate(...)
-File "D:\Advanced-Video-QA-System-main\desktop_app\evidence\evidence_service.py", line 37, in generate
+File "desktop_app\evidence\evidence_service.py", line 37, in generate
   retrieval_result = self.retrieval_service.search(...)
-File "D:\Advanced-Video-QA-System-main\desktop_app\retrieval\retrieval_service.py", line 48, in search
+File "desktop_app\retrieval\retrieval_service.py", line 48, in search
   raise RetrievalError(f"No FAISS index found for {embedding_model}. Build the vector index first.")
 ```
 
